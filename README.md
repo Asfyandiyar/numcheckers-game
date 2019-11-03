@@ -1,4 +1,4 @@
 # numcheckers-game
-Command to start: browser-sync start --server --files *.js
+Command to start: node server
 
 It is planned refactoring soon.
